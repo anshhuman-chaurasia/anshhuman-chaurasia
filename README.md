@@ -1,9 +1,10 @@
 
 
 <div align="left">
-  <img src="profile_pic.jpg" alt="Anshuman Chaurasia" width="300" height="277.67" style = "float: right" align="right">
+  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/42b5911e-b80d-42ad-9e0f-b979c8a140eb" alt="Anshuman Chaurasia" width="300" height="277.67" style = "float: right" align="right">
   <p>
-    
+ 
+   
 # Hello there! 👋 
 I'm **Anshuman Chaurasia**
     
@@ -22,19 +23,22 @@ My journey in pursuit of knowledge and excellence has led me to the prestigious 
 </p>
 </div>
 
+## Work Experience
+### Research Intern at Stoch Lab, RBCCPS, IISc, Bangalore.
+🔧 Description:
+
+
 ## Projects
 
 ### Team Trident - formula student car
 
 🔧 Description: In the challenging project of designing a Formula Student car chassis, I led a team focused on creating a lightweight and robust structure. Employing **SolidWorks** and **ANSYS**, we achieved a chassis weight of 34 kg while maintaining a minimum Factor of Safety of 3. The experience enhanced my 3D design and analysis skills, allowing me to contribute effectively as a **team leader**.
 
+
+ <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7f5be4c8-3715-42d3-be37-455f5300c313" alt="Chassis-image" width="300" height="277.67" >
+
 📅 Duration: July'22 - Dec'22
 
-💡 Key Contributions:
-- [Contribution 1]
-- [Contribution 2]
-
-![Project Image](path/to/project-image-1.jpg)
 
 ---
 
