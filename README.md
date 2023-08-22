@@ -5,56 +5,117 @@
   <p>
  
    
-# Hello there! 👋 
+## About Me
+
 I'm **Anshuman Chaurasia**
-    
-A passionate mechanical engineer with a love for problem-solving and innovation.
 
 🔧 Mechanical Engineer | 💡 Problem Solver | 🚀 Innovator
 
 
-## About Me
+A passionate mechanical engineer with a love for problem-solving and innovation.
 
-I hail from Pune, India and have always been fascinated by the principles of mechanics and their real-world applications. 
+Hailing from Pune, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
 
-My journey in pursuit of knowledge and excellence has led me to the prestigious **Indian Institute of Technology (BHU), Varanasi**, where I am currently a sophomore in the Department of Mechanical Engineering. With its rich history predating India's independence, this institution has been the perfect platform for me to nurture my dreams and aspirations
-
-
+My journey in the pursuit of knowledge and excellence has brought me to the esteemed **Indian Institute of Technology (BHU), Varanasi** with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Mechanical Engineering. 
 </p>
 </div>
 
 ## Work Experience
-### Research Intern at Stoch Lab, RBCCPS, IISc, Bangalore.
-🔧 Description:
+### Research Intern at Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science
+
+ <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align="right">
+
+
+📅 Duration: May'23 - Jul'23
+
+**🔧 Description:**
+
+Throughout my internship at STOCH LAB, a division under The **Robert Bosch Centre for Cyber-Physical Systems (RBCCPS)** at the esteemed Indian Institute of Science (IISc) Bangalore, I embarked on a transformative journey into the intricate world of robotics and automation.
+
+I extensively contributed to designing and optimizing a complex planetary gearbox, achieving an impressive gear ratio of 32.6 (practically used 16). Applying custom simulations and CAD modeling, I fine-tuned gear teeth, utilizing Lewis Theory and reducing gear weight by 20%. Engaging in thorough numerical simulations, I analyzed bearing loads and enhanced planetary gear design, showcasing my commitment to meticulous engineering solutions.
+ 
+In retrospect, my internship at STOCH LAB stands as a profoundly enriching experience. It masterfully intertwined theoretical insights with practical implementations, solidifying my commitment to engineering excellence. This experience has kindled an unwavering passion within me to continue exploring the vanguard of robotics, perpetually seeking innovative solutions.
+<table>
+<td>
+
+
+</td>  
+</table>
 
 
 ## Projects
 
 ### Team Trident - formula student car
 
-🔧 Description: In the challenging project of designing a Formula Student car chassis, I led a team focused on creating a lightweight and robust structure. Employing **SolidWorks** and **ANSYS**, we achieved a chassis weight of 34 kg while maintaining a minimum Factor of Safety of 3. The experience enhanced my 3D design and analysis skills, allowing me to contribute effectively as a **team leader**.
+**🔧 Description:** 
 
+Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
 
- <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7f5be4c8-3715-42d3-be37-455f5300c313" alt="Chassis-image" width="300" height="277.67" >
+Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
+
+Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
+
 
 📅 Duration: July'22 - Dec'22
 
 
 ---
 
-### [Project 2 - Project Name]
+### Design and Development of Laboratory-Scale Tornado Simulator
 
-🔧 Description: [Brief description of the project]
+A Project by BRNS under Associate Professor Dr. Arnab Sarkar
+📅 Duration:  Jan ’23-Mar ’23
+🔧 Description:
 
-📅 Duration: [Start date - End date]
+- Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
+- Crafted an innovative approach utilizing guided airflow to induce a swirling effect, accurately mimicking tornado conditions.
 
-💡 Key Contributions:
-- [Contribution 1]
-- [Contribution 2]
+- Executed detailed ANSYS Fluent analyses to visualize the intricate pressure, velocity, and vorticity distribution within the simulated tornado formation.
+  - Simulated **150** tornado formation scenarios to comprehensively analyze pressure and velocity gradients.
+  - Generated **3D models** with **5 million mesh cells** for precise representation of tornado characteristics.
 
-![Project Image](path/to/project-image-2.jpg)
+- Fabricated a physical model of the tornado simulator, achieving **95% accuracy** in results as compared to simulated values.
+  - Conducted **30 tests** on the physical model to validate simulation accuracy.
+  - Implemented a new design incorporating thermal factors, enhancing the realism of tornado formation.
 
----
+This endeavor seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
+
+
+<!--
+
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
+-->
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709" alt="CAD" width="500">
+      <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f" alt="Mesh" width="500">
+      <p>Meshing of the CAD</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c" alt="Image 4" width="500">
+      <p>Path Line of Particle</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658" alt="Image 4" width="500">
+      <p>Velocity Vector</p>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Skills
 
