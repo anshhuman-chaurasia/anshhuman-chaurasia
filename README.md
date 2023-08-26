@@ -1,7 +1,7 @@
 
 
 <div align="left">
-  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/42b5911e-b80d-42ad-9e0f-b979c8a140eb" alt="Anshuman Chaurasia" width="300" height="277.67" style = "float: right" align="right">
+  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/42b5911e-b80d1-42ad-9e0f-b979c8a140eb" alt="Anshuman Chaurasia" width="300" height="277.67" style = "float: right" align="right">
   <p>
  
    
@@ -21,8 +21,8 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 </div>
 
 ## Work Experience
-###  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: left" align="left" width ="40"> Research Intern at Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science
-
+###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="100"> 
+#### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science
 
 
  
@@ -41,15 +41,13 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
 <td>
   <tr>
-    <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="300">
+    <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="500">
     <p>STOCH 3, STOCH LAB, IISc</p>
   </tr>
   <tr>
     
-
 https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-4760-a1c6-24433934f503
-
-
+    
   </tr>
 </td>  
 </table>
@@ -64,7 +62,7 @@ Your browser does not support the video tag.
 
 ## Projects
 
-### Team Trident - formula student car
+### Team Trident - Formula Student Car
 
 
 **📅 Duration:** July'22 - Dec'22
@@ -103,7 +101,7 @@ A Project by BRNS under Associate Professor Dr. Arnab Sarkar
   - Conducted **30 tests** on the physical model to validate simulation accuracy.
   - Implemented a new design incorporating thermal factors, enhancing the realism of tornado formation.
 
-This endeavor seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
+This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
 
 
 
@@ -136,7 +134,7 @@ This endeavor seamlessly merged theoretical insights with practical application,
 
 ### Integrating Art of Origami in Structural Mechanics
 
-Engaged in an exploratory endeavor guided by Associate Professor [Dr. Amit Tyagi]([[url](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)])
+Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi]([[url](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)])
 
 
 **📅 Duration:**  Jan ’23-Mar ’23
@@ -146,9 +144,65 @@ Engaged in an exploratory endeavor guided by Associate Professor [Dr. Amit Tyagi
 
 • Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
 
-• Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential in enhancing the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
+• Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential to enhance the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
 
 This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
+
+
+
+---
+
+
+### The Robotic Charging Challenge (by Jaguar and Land Rover)
+
+As a pivotal member of the team  to represent IIT BHU for [Inter IIT Tech Meet 11.0 ]([url](https://interiit-tech.org/))
+
+
+**📅 Duration:**  Jan ’23-Mar ’23
+
+**🔧 Description:**
+
+- **Innovative EV Charging Robotic Arm Design:** Conceptualized and crafted an autonomous robotic arm exclusively dedicated to EV charging. The design showcased complete workspace coverage through strategic link optimization.
+
+- **Efficient Power Transmission System:** Pioneered a distinctive power transmission mechanism amalgamating gears, pulleys, and belts. This intricate setup facilitated impeccable control and efficient energy transfer, underlining my proficiency in precision engineering.
+
+- **Kirigami-Inspired End Effector:** Engineered an end effector ingeniously drawing inspiration from kirigami art. This visionary approach empowered the robotic arm with exceptional flexibility, enabling seamless and omnidirectional socket movement.
+
+My contributions encapsulated innovation, precision, and multidisciplinary engineering, emblematic of my commitment to delivering advanced solutions at the intersection of mechanics and automation.
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31" alt="CAD" width="500">
+      <p>Fig. 1 Rendered View</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523" alt="Mesh" width="500">
+      <p>Fig. 2 Gear Mechanims</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb" alt="Image 4" width="500">
+      <p>Fig. 3 End Effector</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0" alt="Image 4" width="500">
+      <p>Fig. 4 Isometric View</p>
+    </td>
+  </tr>
+</table>
+<!--
+![Robotic arm 3](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523)
+![Robotic arm 2](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb)
+![Robotic arm 1](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31)
+![isometric-view](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0)
+-->
+
+https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45e6-8ba1-452ef6c70388
+
+
 
 <!--
 
