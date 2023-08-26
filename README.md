@@ -3,7 +3,6 @@
 <div align="left">
   <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/42b5911e-b80d-42ad-9e0f-b979c8a140eb" alt="Anshuman Chaurasia" width="300" height="277.67" style = "float: right" align="right">
   <p>
- 
    
 ## About Me
 
