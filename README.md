@@ -37,10 +37,23 @@ I extensively contributed to designing and optimizing a complex planetary gearbo
 In retrospect, my internship at STOCH LAB stands as a profoundly enriching experience. It masterfully intertwined theoretical insights with practical implementations, solidifying my commitment to engineering excellence. This experience has kindled an unwavering passion within me to continue exploring the vanguard of robotics, perpetually seeking innovative solutions.
 <table>
 <td>
-
-
+  <tr>
+    <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="300">
+    <p>STOCH 3, STOCH LAB, IISc,Bangalore</p>
+  </tr>
+  <tr>
+    
+https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e4a08660-3cf9-44a7-99f2-f548fbb1a655
+  </tr>
 </td>  
 </table>
+<!--<video width="320" height="240" controls>
+  <source src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e4a08660-3cf9-44a7-99f2-f548fbb1a655" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+-->
+
+
 
 
 ## Projects
@@ -64,7 +77,9 @@ Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrica
 ### Design and Development of Laboratory-Scale Tornado Simulator
 
 A Project by BRNS under Associate Professor Dr. Arnab Sarkar
+
 📅 Duration:  Jan ’23-Mar ’23
+
 🔧 Description:
 
 - Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
