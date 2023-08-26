@@ -12,7 +12,7 @@ I'm **Anshuman Chaurasia**
 🔧 Mechanical Engineer | 💡 Problem Solver | 🚀 Innovator
 
 
-A passionate mechanical engineer with a love for problem-solving and innovation.
+I am a passionate mechanical engineer with a love for problem-solving and innovation.
 
 Hailing from Pune, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
 
@@ -21,29 +21,35 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 </div>
 
 ## Work Experience
-### Research Intern at Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science
+###  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: left" align="left" width ="40"> Research Intern at Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science
 
- <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align="right">
+
+
+ 
 
 
 📅 Duration: May'23 - Jul'23
 
 **🔧 Description:**
 
-Throughout my internship at STOCH LAB, a division under The **Robert Bosch Centre for Cyber-Physical Systems (RBCCPS)** at the esteemed Indian Institute of Science (IISc) Bangalore, I embarked on a transformative journey into the intricate world of robotics and automation.
+- **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
 
-I extensively contributed to designing and optimizing a complex planetary gearbox, achieving an impressive gear ratio of 32.6 (practically used 16). Applying custom simulations and CAD modeling, I fine-tuned gear teeth, utilizing Lewis Theory and reducing gear weight by 20%. Engaging in thorough numerical simulations, I analyzed bearing loads and enhanced planetary gear design, showcasing my commitment to meticulous engineering solutions.
- 
-In retrospect, my internship at STOCH LAB stands as a profoundly enriching experience. It masterfully intertwined theoretical insights with practical implementations, solidifying my commitment to engineering excellence. This experience has kindled an unwavering passion within me to continue exploring the vanguard of robotics, perpetually seeking innovative solutions.
-<table>
+- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution enabled achieving an extraordinary gear ratio reaching an impressive high of **32.6**.
+
+- **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
+
+This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
 <td>
   <tr>
     <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="300">
-    <p>STOCH 3, STOCH LAB, IISc,Bangalore</p>
+    <p>STOCH 3, STOCH LAB, IISc</p>
   </tr>
   <tr>
     
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e4a08660-3cf9-44a7-99f2-f548fbb1a655
+
+https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-4760-a1c6-24433934f503
+
+
   </tr>
 </td>  
 </table>
@@ -60,6 +66,10 @@ Your browser does not support the video tag.
 
 ### Team Trident - formula student car
 
+
+**📅 Duration:** July'22 - Dec'22
+
+
 **🔧 Description:** 
 
 Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
@@ -69,7 +79,7 @@ Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within
 Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
 
 
-📅 Duration: July'22 - Dec'22
+
 
 
 ---
@@ -78,9 +88,9 @@ Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrica
 
 A Project by BRNS under Associate Professor Dr. Arnab Sarkar
 
-📅 Duration:  Jan ’23-Mar ’23
+**📅 Duration:**  Jan ’23-Mar ’23
 
-🔧 Description:
+**🔧 Description:**
 
 - Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
 - Crafted an innovative approach utilizing guided airflow to induce a swirling effect, accurately mimicking tornado conditions.
@@ -94,16 +104,6 @@ A Project by BRNS under Associate Professor Dr. Arnab Sarkar
   - Implemented a new design incorporating thermal factors, enhancing the realism of tornado formation.
 
 This endeavor seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
-
-
-<!--
-
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
--->
 
 
 
@@ -129,6 +129,35 @@ This endeavor seamlessly merged theoretical insights with practical application,
     </td>
   </tr>
 </table>
+
+
+---
+
+
+### Integrating Art of Origami in Structural Mechanics
+
+Engaged in an exploratory endeavor guided by Associate Professor [Dr. Amit Tyagi]([[url](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)])
+
+
+**📅 Duration:**  Jan ’23-Mar ’23
+
+**🔧 Description:**
+
+
+• Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
+
+• Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential in enhancing the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
+
+This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
+
+<!--
+
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
+![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
+-->
 
 
 
