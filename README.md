@@ -1,14 +1,14 @@
 
 
 <div align="left">
-  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/42b5911e-b80d-42ad-9e0f-b979c8a140eb" alt="Anshuman Chaurasia" width="300" height="277.67" style = "float: right" align="right">
+  <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/6711b99d-2ce7-48ca-a5f7-cf05f50c5b6c" alt="Anshuman Chaurasia" width="300"  style = "float: right" align="right">
   <p>
-   
+
 ## About Me
 
 I'm **Anshuman Chaurasia**
 
-🔧 Mechanical Engineer | 💡 Problem Solver | 🚀 Innovator
+🔧 Builder | 💡 Tinker | 🚀 Technologist
 
 
 I am a passionate mechanical engineer with a love for problem-solving and innovation.
@@ -21,10 +21,12 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 ## Work Experience
 ###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="100"> 
-#### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science
+#### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science 
+<p align ="right"> <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter</p>
+<p> </p>
+<p> </p>
+<p align ="right"> <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter</p>
 
-
- 
 
 
 📅 Duration: May'23 - Jul'23
@@ -57,7 +59,35 @@ Your browser does not support the video tag.
 -->
 
 
+###  Simulation Engineer Intern  <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/c81fde06-5264-492a-8031-4770a11843d1" alt="Vayv" style = "float: right" align=" right" width ="250"> 
+#### VAYV Power Private Limited
+<p align ="right"> <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</p>
 
+
+
+📅 Duration: Jun'23 - Aug'23
+
+**🔧 Description:**
+
+- **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
+
+- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution enabled achieving an extraordinary gear ratio reaching an impressive high of **32.6**.
+
+- **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
+
+This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
+<td>
+
+  <tr>
+    
+
+https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/36a93dae-fd3f-4b21-9e51-d78b91e36479
+
+
+    
+  </tr>
+</td>  
+</table>
 
 ## Projects
 
@@ -75,7 +105,28 @@ Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within
 
 Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1fc90e29-af07-4cd1-b7f7-c8487b54b248" alt="CAD" width="500">
+      <p>Created to-scale CAD model for manufacturing. </p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/bc9bc99f-2377-4659-9f89-ecad140d3976" alt="Mesh" width="500">
+      <p>Chassis Manufactured completely by student body</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1ed9504e-9276-4350-851a-e6c7179a3c3c" alt="Image 4" width="500">
+      <p>CAE of chassis</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/9126b4d9-3249-4024-a3bc-a5bd7e077034" alt="Image 4" width="500">
+      <p>Template fitting</p>
+    </td>
+  </tr>
+</table>
 
 
 
