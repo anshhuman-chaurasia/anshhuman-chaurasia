@@ -59,7 +59,7 @@ Your browser does not support the video tag.
 #### VAYV Power Private Limited
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jun'23 - Aug'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</div>
+  <div style="text-align: left;"><b>📅 Duration:</b> Jun'23 - Aug'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</div>
 
 
 
@@ -91,7 +91,7 @@ https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/36a93
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> July'22 - Dec'22  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1WyQJVZT7-zuclI6FgL2CmQ_xW1QE9eHL/view?usp=drive_link">Project Report
+  <div style="text-align: left;"><b>📅 Duration:</b> July'22 - Dec'22  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1WyQJVZT7-zuclI6FgL2CmQ_xW1QE9eHL/view?usp=drive_link">Project Report
   </div>
 
 
@@ -134,9 +134,13 @@ Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrica
 
 ### Design and Development of Laboratory-Scale Tornado Simulator
 
-A Project by BRNS under Associate Professor Dr. Arnab Sarkar
+A Project by BRNS under Associate Professor [Dr. Arnab Sarkar
+](https://iitbhu.ac.in/dept/mec/people/arnabmec)
 
-**📅 Duration:**  Jan ’23-Mar ’23
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1FAogI2yq31ed6fsmoOTfP4cd-nnEjRZw/view?usp=drive_link">Project Report
+  </div>
 
 **🔧 Description:**
 
@@ -184,7 +188,7 @@ This endeavour seamlessly merged theoretical insights with practical application
 
 ### Integrating Art of Origami in Structural Mechanics
 
-Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi]([[url](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)])
+Engaged in an exploratory project guided by Associate Professor[Dr. Amit Tyagi](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)
 
 
 **📅 Duration:**  Jan ’23-Mar ’23
