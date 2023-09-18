@@ -24,7 +24,7 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 #### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
 
 
-  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
+  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
   </div>
     
 **🔧 Description:**
