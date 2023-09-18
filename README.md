@@ -22,13 +22,10 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 ## Work Experience
 ###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="100"> 
 #### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science 
-<p align ="right"> <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter</p>
+
 <p> </p>
 <p> </p>
 <p align ="right"> <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter</p>
-
-
-
 📅 Duration: May'23 - Jul'23
 
 **🔧 Description:**
