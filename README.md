@@ -20,14 +20,13 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 </div>
 
 ## Work Experience
-###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="100"> 
+###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="80"> 
 #### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science 
 
-<p> </p>
-<p> </p>
-<p align ="right"> <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter</p>
-📅 Duration: May'23 - Jul'23
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
+  </div>
+    
 **🔧 Description:**
 
 - **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
@@ -58,11 +57,11 @@ Your browser does not support the video tag.
 
 ###  Simulation Engineer Intern  <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/c81fde06-5264-492a-8031-4770a11843d1" alt="Vayv" style = "float: right" align=" right" width ="250"> 
 #### VAYV Power Private Limited
-<p align ="right"> <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</p>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;"><b>📅 Duration:</b> Jun'23 - Aug'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</div>
 
 
-
-📅 Duration: Jun'23 - Aug'23
 
 **🔧 Description:**
 
@@ -91,7 +90,10 @@ https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/36a93
 ### Team Trident - Formula Student Car
 
 
-**📅 Duration:** July'22 - Dec'22
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;"><b>📅 Duration:</b> July'22 - Dec'22  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1WyQJVZT7-zuclI6FgL2CmQ_xW1QE9eHL/view?usp=drive_link">Project Report
+  </div>
+
 
 
 **🔧 Description:** 
@@ -101,6 +103,7 @@ Designed Formula Student Car Chassis: Spearheaded the design of the Formula Stud
 Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
 
 Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
+
 
 <table>
   <tr>
