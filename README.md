@@ -1,8 +1,8 @@
 
 
 <div align="left">
-  <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/6711b99d-2ce7-48ca-a5f7-cf05f50c5b6c" alt="Anshuman Chaurasia" width="300"  style = "float: right" align="right">
-  <p>
+ <!-- <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/6711b99d-2ce7-48ca-a5f7-cf05f50c5b6c" alt="Anshuman Chaurasia" width="300"  style = "float: right" align="right">
+  --><p>
 
 ## About Me
 
@@ -30,12 +30,16 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 ## Work Experience
 ###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="80"> 
-#### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
+#### <a href = "https://cps.iisc.ac.in/">Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
 
 
-  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
+  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23   
+    <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
   </div>
-    
+
+
+<p>   </p>
+
 **🔧 Description:**
 
 - **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
@@ -68,7 +72,7 @@ https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-47
 #### VAYV Power Private Limited
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jun'23 - Aug'23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</div>
+  <div style="text-align: left;"><b>📅 Duration:</b> Jun'23 - Aug'23 <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</div>
 
 
 
@@ -82,7 +86,19 @@ https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-47
 
 This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
 <td>
-https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/36a93dae-fd3f-4b21-9e51-d78b91e36479  
+
+  <tr>
+    
+
+    
+
+  
+
+https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/23325e43-62b6-4fc5-be24-932096001e86
+
+
+  
+  </tr>
 </td>  
 </table>
 
@@ -166,7 +182,7 @@ A Project by BRNS under Associate Professor [Dr. Arnab Sarkar
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1FAogI2yq31ed6fsmoOTfP4cd-nnEjRZw/view?usp=drive_link">Project Report
+  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23
   </div>
 
 **🔧 Description:**
@@ -184,7 +200,7 @@ A Project by BRNS under Associate Professor [Dr. Arnab Sarkar
 
 This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
 
-
+<a href = "https://drive.google.com/file/d/1FAogI2yq31ed6fsmoOTfP4cd-nnEjRZw/view?usp=drive_link">Project Report
 
 <table>
   <tr>
@@ -211,9 +227,9 @@ This endeavour seamlessly merged theoretical insights with practical application
 
 <!-- ------------------------------------------------------------------------------P3-------------------------------------------------------------------------------------------------------------------------- -->
 
-### Designing of Bipotentiostat
+### Designing of Labratory Electro-Chemical Cell
 
-Engaged in a project guided by Associate Professor[Dr. Amit Tyagi](https://www.iitbhu.ac.in/dept/met/people/bratindramet)
+Engaged in a project guided by Associate Professor [Dr. Bratindranath Mukherjee](https://www.iitbhu.ac.in/dept/met/people/bratindramet)
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: left;"><b>📅 Duration:</b> July'23 - Present 
@@ -233,23 +249,19 @@ Worked closely with a field expert to ensure the feasibility and functionality o
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1fc90e29-af07-4cd1-b7f7-c8487b54b248" alt="CAD" width="500">
-      <p>Created to-scale CAD model for manufacturing. </p>
+      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/2052cd6a-fabb-44fb-be1f-c8f81bd3106c" alt="CAD" width="500">
     </td>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/bc9bc99f-2377-4659-9f89-ecad140d3976" alt="Mesh" width="500">
-      <p>Chassis Manufactured completely by student body</p>
+      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/09788001-5b49-480f-a879-2c04f9aeabef" alt="Mesh" width="500">
     </td>
   </tr>
   <tr>
     <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1ed9504e-9276-4350-851a-e6c7179a3c3c" alt="Image 4" width="500">
-      <p>CAE of chassis</p>
+     <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/6be52f1f-0e00-4c5f-a700-737eec3f06fe" alt="Image 4" width="500">
     </td>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/9126b4d9-3249-4024-a3bc-a5bd7e077034" alt="Image 4" width="500">
-      <p>Template fitting</p>
-    </td>
+      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/408b7c47-cc2d-4049-864a-4f7529b0bf59" alt="Image 4" width="500">
+     </td>
   </tr>
 </table>
 
@@ -262,7 +274,8 @@ Worked closely with a field expert to ensure the feasibility and functionality o
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> July'22 - Dec'22  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1WyQJVZT7-zuclI6FgL2CmQ_xW1QE9eHL/view?usp=drive_link">Project Report
+  <div style="text-align: left;"><b>📅 Duration:</b> July'22 - Dec'22  
+    
   </div>
 
 
@@ -274,6 +287,9 @@ Designed Formula Student Car Chassis: Spearheaded the design of the Formula Stud
 Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
 
 Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
+
+
+<a href = "https://drive.google.com/file/d/1WyQJVZT7-zuclI6FgL2CmQ_xW1QE9eHL/view?usp=drive_link">Project Report
 
 
 <table>
@@ -309,13 +325,12 @@ Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrica
 
 ### Integrating Art of Origami in Structural Mechanics
 
-Engaged in an exploratory project guided by Associate Professor[Dr. Amit Tyagi](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)
+Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)
 
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href = "https://drive.google.com/file/d/1B3P5diGISbl3OKg_I6mkmAb9jTnCLdtv/view?usp=drive_link">Project Report
-  </div>
+  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23  <  </div>
 
 
 **🔧 Description:**
@@ -330,6 +345,7 @@ This exploration seamlessly harmonized theoretical innovation with the potential
 
 
 
+<a href = "https://drive.google.com/file/d/1B3P5diGISbl3OKg_I6mkmAb9jTnCLdtv/view?usp=drive_link">Project Report
 
 
 
