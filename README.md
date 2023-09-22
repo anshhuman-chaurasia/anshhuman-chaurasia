@@ -44,7 +44,7 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 - **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
 
-- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution enabled achieving an extraordinary gear ratio reaching an impressive high of **32.6**.
+- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution achieved an extraordinary gear ratio, reaching an impressive high of **32.6**.
 
 - **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
 
@@ -62,7 +62,7 @@ https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-47
 </td>  
 </table>
 
-
+---
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -172,7 +172,7 @@ https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45
 ![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
 ![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
 -->
-
+---
 <!-- ------------------------------------------------------------------------------P2-------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Design and Development of Laboratory-Scale Tornado Simulator
@@ -225,6 +225,10 @@ This endeavour seamlessly merged theoretical insights with practical application
   </tr>
 </table>
 
+
+---
+
+
 <!-- ------------------------------------------------------------------------------P3-------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Designing of Labratory Electro-Chemical Cell
@@ -238,13 +242,10 @@ Engaged in a project guided by Associate Professor [Dr. Bratindranath Mukherjee]
 
 
 **🔧 Description:** 
-Conceptualized, designed, and optimized a Raman spectroscopy system to gather real-time chemical information during electrochemical experiments.
-Advanced Manufacturing Skills:
 
-Generated precise G-code using Finite Element Method (FEM) for 3D printing, resulting in the accurate physical realization of the spectroscopy system.
-Interdisciplinary Collaboration:
-
-Worked closely with a field expert to ensure the feasibility and functionality of the instrument, integrating theoretical principles of Raman spectroscopy with electrochemical concepts.
+- Conceptualized, designed, and optimized a Raman spectroscopy system to gather real-time chemical information during electrochemical experiments.
+- **Advanced Manufacturing Skills:** Generated precise G-code using Finite Element Method (FEM) for 3D printing, resulting in the accurate physical realization of the spectroscopy system.
+- **Interdisciplinary Collaboration:** Worked closely with a field expert to ensure the feasibility and functionality of the instrument, integrating theoretical principles of Raman spectroscopy with electrochemical concepts.
 
 <table>
   <tr>
@@ -265,7 +266,7 @@ Worked closely with a field expert to ensure the feasibility and functionality o
   </tr>
 </table>
 
-
+---
 
 
 <!-- ------------------------------------------------------------------------------P4-------------------------------------------------------------------------------------------------------------------------- -->
@@ -282,9 +283,9 @@ Worked closely with a field expert to ensure the feasibility and functionality o
 
 **🔧 Description:** 
 
-Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
+- Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
 
-Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
+- Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
 
 Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
 
@@ -336,9 +337,9 @@ Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi]
 **🔧 Description:**
 
 
-• Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
+- Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
 
-• Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential to enhance the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
+- Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential to enhance the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
 
 This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
 
@@ -359,10 +360,10 @@ This exploration seamlessly harmonized theoretical innovation with the potential
 ## Skills
 
 - 🔩 Mechanical Design and Analysis
-- 🛠️ CAD/CAM and 3D Modeling
-- 🔬 Materials Science and Engineering
-- 🤖 Robotics and Automation
-- 💻 Programming (C++, Python)
+- 🛠️ **C**omputer **A**ided **D**esign and **F**inite **E**lement **A**nalysis
+- 🔬 Product Development and User Experience    
+- 💻 Programming:  C++, Python MATLAB
+- 📚 Library: Pandas, NumPy, Matplotlib, Sci-Kit Learn, Seaborn, SciPy
 
 ## Contact Me
 
