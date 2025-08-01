@@ -57,7 +57,11 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
 
-###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="80"> 
+
+
+
+###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: left" align=" left" width ="80"> 
+
 #### <a href = "https://cps.iisc.ac.in/">Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
 
 
