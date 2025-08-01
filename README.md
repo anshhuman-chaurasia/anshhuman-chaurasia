@@ -36,6 +36,27 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 
 ## Work Experience
+###  Mechatronics Intern  <img src="https://media.jaguarlandrover.com/news/2023/06/jaguar-land-rover-unveils-new-jlr-corporate-identity-it-accelerates-modern-luxury" alt="IISc" style = "float: right" align=" left" width ="80"> 
+#### <a href = "https://cps.iisc.ac.in/">Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
+
+
+  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23   
+    <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
+  </div>
+
+
+<p>   </p>
+
+**🔧 Description:**
+
+- **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
+
+- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution achieved an extraordinary gear ratio, reaching an impressive high of **32.6**.
+
+- **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
+
+This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
+
 ###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="80"> 
 #### <a href = "https://cps.iisc.ac.in/">Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
 
