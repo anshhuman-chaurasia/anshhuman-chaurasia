@@ -1,404 +1,98 @@
-
-
-<div align="left">
- <!-- <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/6711b99d-2ce7-48ca-a5f7-cf05f50c5b6c" alt="Anshuman Chaurasia" width="300"  style = "float: right" align="right">
-  --><p>
-
-## About Me
-
-I'm **Anshuman Chaurasia**
-
-🔧 Builder | 💡 Tinker | 🚀 Technologist
-
-
-I am a passionate mechanical engineer with a love for problem-solving and innovation.
-
-Hailing from Pune, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
-
-My journey in the pursuit of knowledge and excellence has brought me to the esteemed **Indian Institute of Technology (BHU), Varanasi** with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Mechanical Engineering. 
-</p>
+<div align="center">
+  <h1>Hi, I'm Anshuman Chaurasia 👋</h1>
+  <h3>🔧 Builder | 💡 Tinker | 🚀 Technologist</h3>
 </div>
 
+---
 
+## 👨‍💻 About Me
 
-
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-## Academic References
-
-1. Dr. Aranb Sarkar's [Letter of Recommendation](https://drive.google.com/file/d/14qM5JXXf--EVs1mIJx0UdGJ4UsuOM8CY/view?usp=drive_link).
-2.  Dr. Bratindranath Mukherjee's [Letter of Recommendation](https://drive.google.com/file/d/1yry7hSixsuF8q6kjuakGVyCKN8MILXno/view?usp=drive_link).
-
-
-
-
-
-
-## Work Experience
-###  Mechatronics Intern  <img src="https://media.jaguarlandrover.com/news/2023/06/jaguar-land-rover-unveils-new-jlr-corporate-identity-it-accelerates-modern-luxury" alt="IISc" style = "float: right" align=" left" width ="80"> 
-#### <a href = "https://cps.iisc.ac.in/">Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
-
-
-  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23   
-    <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
-  </div>
-
-
-<p>   </p>
-
-**🔧 Description:**
-
-- **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
-
-- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution achieved an extraordinary gear ratio, reaching an impressive high of **32.6**.
-
-- **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
-
-This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
-
-
-
-
-###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: left" align=" left" width ="80"> 
-
-#### <a href = "https://cps.iisc.ac.in/">Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science  
-
-
-  <div style="text-align: left;"><b>📅 Duration:</b> May'23 - Jul'23   
-    <a href ="https://drive.google.com/file/d/1QEtw38XL_ZWBipmQFKYLW65QfwprYIiK/view?usp=sharing">Offer Letter
-  </div>
-
-
-<p>   </p>
-
-**🔧 Description:**
-
-- **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
-
-- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution achieved an extraordinary gear ratio, reaching an impressive high of **32.6**.
-
-- **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
-
-This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
-<td>
-  <tr>
-    <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="500">
-    <p>STOCH 3, STOCH LAB, IISc</p>
-  </tr>
-  <tr>
-    
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-4760-a1c6-24433934f503
-    
-  </tr>
-</td>  
-</table>
+I'm a passionate **Mechanical Engineering** student from **IIT (BHU), Varanasi**. I love solving real-world problems using engineering tools and simulation-driven design. My interests include **CAD**, **CFD**, **thermal systems**, and **prototyping** — especially for **sustainable and climate-tech solutions**.
 
 ---
 
+## 💼 Work Experience
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+### 💡 CFD Intern – Jaguar Land Rover TBSI  
+**Lighting Systems – Thermal Simulation and Heatsink Redesign**  
+📅 *May 2025 – Jul 2025* | 📍 Remote | Bengaluru, India  
+📄 [Project Report (PPT)](https://yourdriveurl.com)
 
-
-###  Simulation Engineer Intern  <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/c81fde06-5264-492a-8031-4770a11843d1" alt="Vayv" style = "float: right" align=" right" width ="250"> 
-#### VAYV Power Private Limited
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jun'23 - Aug'23 <a href ="https://drive.google.com/file/d/1qPanO7g1CyGrmwuaFQ7QWBrM_Qg_7a_i/view?usp=drive_link">Offer Letter</div>
-
-
+<img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/c81fde06-5264-492a-8031-4770a11843d1" width="400">
 
 **🔧 Description:**
+- Conducted end-to-end CFD simulations in **STAR-CCM+** to evaluate alternate heatsink materials for LED headlamps.
+- Used **k–ω SST** turbulence and **S2S radiation** models under realistic power loads and ambient conditions.
+- Achieved **13% reduction in peak LED temperature** and **24% reduction in heatsink weight** using polymer-based designs.
+- Tools: **STAR-CCM+, SolidWorks, MATLAB, Design Manager**
 
-- **Comprehensive Kinematics Analysis:** Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
+### 🔬 Research Intern – IISc Bengaluru (RBCCPS)  
+📅 *May 2023 – Jul 2023*  
+<img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0" width="400">
+- Developed optimized high-ratio gearbox for quadruped robot; achieved 20% weight reduction.
+- Created Python-based gear calculator and used MATLAB + YALMIP for constrained optimization.
+- Integrated theoretical design with manufacturable specs.
 
-- **Python Program for Optimization:** Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution enabled achieving an extraordinary gear ratio reaching an impressive high of **32.6**.
-
-- **Weight Reduction through Precision:** Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of **20%**.
-
-This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
-<td>
-
-  <tr>
-    
-
-    
-
-  
-
-https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/23325e43-62b6-4fc5-be24-932096001e86
-
-
-  
-  </tr>
-</td>  
-</table>
-
-
-
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-
-
-## Projects
-
-<!-- ------------------------------------------------------------------------------P1-------------------------------------------------------------------------------------------------------------------------- -->
-### The Robotic Charging Challenge (by Jaguar and Land Rover)
-
-As a pivotal member of the team  to represent IIT BHU for ([Inter IIT Tech Meet 11.0 ](https://interiit-tech.org/))
-
-
-**📅 Duration:**  Jan ’23-Mar ’23
-
-**🔧 Description:**
-
-- **Innovative EV Charging Robotic Arm Design:** Conceptualized and crafted an autonomous robotic arm dedicated to EV charging. The design showcased complete workspace coverage through strategic link optimization.
-
-- **Efficient Power Transmission System:** Pioneered a distinctive power transmission mechanism amalgamating gears, pulleys, and belts. This intricate setup facilitated impeccable control and efficient energy transfer, underlining my proficiency in precision engineering.
-
-- **Kirigami-Inspired End Effector:** Engineered an end effector ingeniously drawing inspiration from kirigami art. This visionary approach empowered the robotic arm with exceptional flexibility, enabling seamless and omnidirectional socket movement.
-
-My contributions encapsulated innovation, precision, and multidisciplinary engineering, emblematic of my commitment to delivering advanced solutions at the intersection of mechanics and automation.
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31" alt="CAD" width="500">
-      <p>Fig. 1 Rendered View</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523" alt="Mesh" width="500">
-      <p>Fig. 2 Gear Mechanims</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb" alt="Image 4" width="500">
-      <p>Fig. 3 End Effector</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0" alt="Image 4" width="500">
-      <p>Fig. 4 Isometric View</p>
-    </td>
-  </tr>
-</table>
-<!--
-![Robotic arm 3](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523)
-![Robotic arm 2](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb)
-![Robotic arm 1](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31)
-![isometric-view](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0)
--->
-
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45e6-8ba1-452ef6c70388
-
-
-
-<!--
-
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
--->
----
-<!-- ------------------------------------------------------------------------------P2-------------------------------------------------------------------------------------------------------------------------- -->
-
-### Design and Development of Laboratory-Scale Tornado Simulator
-
-A Project by BRNS under Associate Professor [Dr. Arnab Sarkar
-](https://iitbhu.ac.in/dept/mec/people/arnabmec)
-
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23
-  </div>
-
-**🔧 Description:**
-
-- Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
-- Crafted an innovative approach utilizing guided airflow to induce a swirling effect, accurately mimicking tornado conditions.
-
-- Executed detailed ANSYS Fluent analyses to visualize the intricate pressure, velocity, and vorticity distribution within the simulated tornado formation.
-  - Simulated **150** tornado formation scenarios to comprehensively analyze pressure and velocity gradients.
-  - Generated **3D models** with **5 million mesh cells** for precise representation of tornado characteristics.
-
-- Fabricated a physical model of the tornado simulator, achieving **95% accuracy** in results as compared to simulated values.
-  - Conducted **30 tests** on the physical model to validate simulation accuracy.
-  - Implemented a new design incorporating thermal factors, enhancing the realism of tornado formation.
-
-This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
-
-<a href = "https://drive.google.com/file/d/1FAogI2yq31ed6fsmoOTfP4cd-nnEjRZw/view?usp=drive_link">Project Report
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709" alt="CAD" width="500">
-      <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f" alt="Mesh" width="500">
-      <p>Meshing of the CAD</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c" alt="Image 4" width="500">
-      <p>Path Line of Particle</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658" alt="Image 4" width="500">
-      <p>Velocity Vector</p>
-    </td>
-  </tr>
-</table>
-
+### ⚙️ Simulation Engineer – Vayv Energy Pvt. Ltd.  
+📅 *Jun 2023 – Aug 2023*  
+<img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/23325e43-62b6-4fc5-be24-932096001e86" width="400">
+- Designed and simulated a vertical axis turbine in **ANSYS Fluent** using flow ranges of 2–12 m/s.
+- Modeled performance curves in MATLAB and validated them using published literature.
+- Modified airfoil profiles in XFLR5 for target drag/lift.
 
 ---
 
+## 📂 Featured Projects
 
-<!-- ------------------------------------------------------------------------------P3-------------------------------------------------------------------------------------------------------------------------- -->
+### 🤖 Autonomous EV Charging Arm – Inter IIT Tech Meet
+<img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31" width="400">
+- Designed 6-DOF robotic arm with 97.86% workspace coverage using gear-driven transmission.
+- Developed kirigami-inspired end effector for omnidirectional socket flexibility.
 
-### Designing of Labratory Electro-Chemical Cell
+### 🌪️ Tornado Simulator – BRNS Project
+<img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709" width="400">
+- Simulated tornado airflow using **ANSYS Fluent**, meshed with 5M cells.
+- Fabricated physical prototype achieving 95% simulation accuracy.
 
-Engaged in a project guided by Associate Professor [Dr. Bratindranath Mukherjee](https://www.iitbhu.ac.in/dept/met/people/bratindramet)
+### 🔬 Electrochemical Spectroscopy Cell – Research Lab (IIT BHU)
+<img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/2052cd6a-fabb-44fb-be1f-c8f81bd3106c" width="400">
+- Developed custom Raman spectroscopy setup integrated with 3D-printed electrochemical cell.
+- Generated G-code using FEM for accurate prototyping.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> July'23 - Present 
-  </div>
-
-
-
-**🔧 Description:** 
-
-- Conceptualized, designed, and optimized a Raman spectroscopy system to gather real-time chemical information during electrochemical experiments.
-- **Advanced Manufacturing Skills:** Generated precise G-code using Finite Element Method (FEM) for 3D printing, resulting in the accurate physical realization of the spectroscopy system.
-- **Interdisciplinary Collaboration:** Worked closely with a field expert to ensure the feasibility and functionality of the instrument, integrating theoretical principles of Raman spectroscopy with electrochemical concepts.
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/2052cd6a-fabb-44fb-be1f-c8f81bd3106c" alt="CAD" width="500">
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/09788001-5b49-480f-a879-2c04f9aeabef" alt="Mesh" width="500">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/6be52f1f-0e00-4c5f-a700-737eec3f06fe" alt="Image 4" width="500">
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/408b7c47-cc2d-4049-864a-4f7529b0bf59" alt="Image 4" width="500">
-     </td>
-  </tr>
-</table>
+### 🏎️ Formula Bharat Chassis – Team Trident SAE
+<img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1fc90e29-af07-4cd1-b7f7-c8487b54b248" width="400">
+- Designed & fabricated FSAE-compliant steel spaceframe chassis.
+- Achieved 15% weight reduction and 97% strength improvement via FEA.
 
 ---
 
+## 🛠 Skills
 
-<!-- ------------------------------------------------------------------------------P4-------------------------------------------------------------------------------------------------------------------------- -->
-
-### Team Trident - Formula Student Car
-
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> July'22 - Dec'22  
-    
-  </div>
-
-
-
-**🔧 Description:** 
-
-- Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
-
-- Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
-
-Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
-
-
-<a href = "https://drive.google.com/file/d/1WyQJVZT7-zuclI6FgL2CmQ_xW1QE9eHL/view?usp=drive_link">Project Report
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1fc90e29-af07-4cd1-b7f7-c8487b54b248" alt="CAD" width="500">
-      <p>Created to-scale CAD model for manufacturing. </p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/bc9bc99f-2377-4659-9f89-ecad140d3976" alt="Mesh" width="500">
-      <p>Chassis Manufactured completely by student body</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/1ed9504e-9276-4350-851a-e6c7179a3c3c" alt="Image 4" width="500">
-      <p>CAE of chassis</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/anshhuman-chaurasia/assets/96232817/9126b4d9-3249-4024-a3bc-a5bd7e077034" alt="Image 4" width="500">
-      <p>Template fitting</p>
-    </td>
-  </tr>
-</table>
-
-
-
-<!-- ------------------------------------------------------------------------------P5-------------------------------------------------------------------------------------------------------------------------- -->
-
+- 💻 Programming: Python, MATLAB, C++
+- 🔩 CAD/Simulation: SolidWorks, ANSYS Fluent, STAR-CCM+, XFLR5, Simulink
+- ⚙️ Optimization: YALMIP, Design Manager, FEM, PSO
+- 📦 Rapid Prototyping: 3D printing, machining, fabrication
 
 ---
 
+## 📊 GitHub Stats
 
-### Integrating Art of Origami in Structural Mechanics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshhuman-chaurasia&show_icons=true&theme=vision-friendly-dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshhuman-chaurasia&theme=vision-friendly-dark" width="47%" />
+</p>
 
-Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshhuman-chaurasia&theme=github_dark" />
+</p>
 
+---
 
+## 📬 Contact Me
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;"><b>📅 Duration:</b> Jan ’23-Mar ’23  <  </div>
+- 📧 Email: [anshuman.chaurasia.mec21@iitbhu.ac.in](mailto:anshuman.chaurasia.mec21@iitbhu.ac.in)  
+- 🔗 LinkedIn: [linkedin.com/in/anshuman-chaurasia](https://linkedin.com/in/anshuman-chaurasia)  
+- 🧰 GitHub: [github.com/anshhuman-chaurasia](https://github.com/anshhuman-chaurasia)  
+- 📞 Phone: +91-930-711-8469
 
-
-**🔧 Description:**
-
-
-- Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
-
-- Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential to enhance the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
-
-This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
-
-
-
-
-<a href = "https://drive.google.com/file/d/1B3P5diGISbl3OKg_I6mkmAb9jTnCLdtv/view?usp=drive_link">Project Report
-
-
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-
-
-
-
-## Skills
-
-- 🔩 Mechanical Design and Analysis
-- 🛠️ **C**omputer **A**ided **D**esign and **F**inite **E**lement **A**nalysis
-- 🔬 Product Development and User Experience    
-- 💻 Programming:  C++, Python MATLAB
-- 📚 Library: Pandas, NumPy, Matplotlib, Sci-Kit Learn, Seaborn, SciPy
-
-## Contact Me
-
-📧 Email: [anshuman.chaurasia.mec21@iitbhu.ac.in](mailto:anshuman.chaurasia.mec21@iitbhu.ac.in)
-🔗 LinkedIn: [linkedin.com/in/anshuman-chaurasia/](linkedin.com/in/anshuman-chaurasia/)
-📞 Phone: [+91-930-711-8469](tel:+919307118469)
+---
